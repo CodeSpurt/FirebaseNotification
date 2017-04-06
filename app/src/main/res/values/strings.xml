@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseNotificationDemo</string>
+
+    <string name="get_firebase_token">Get Firebase Token</string>
+</resources>
